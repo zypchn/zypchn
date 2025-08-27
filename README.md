@@ -1,16 +1,21 @@
-## Hi there 👋
+Hey there 👋 I'm Zeynep
 
-<!--
-**zypchn/zypchn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A researcher specializing in artificial intelligence, natural language processing, computer vision, and bioinformatics. 
+My work is driven by a passion for interdisciplinary innovation, particularly at the convergence of biology and AI. 
 
-Here are some ideas to get you started:
+Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Skills
+
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)
+
+<details>
+<summary>More Skills</summary>
+<br>
+  
+![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)
+
+</details>
+
+<br>
