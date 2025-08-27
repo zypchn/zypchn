@@ -4,6 +4,8 @@ A researcher specializing in artificial intelligence, natural language processin
 My work is driven by a passion for interdisciplinary innovation, particularly at the convergence of biology and AI. \
 🎓 Student @ Ankara University - Artificial Intelligence and Data Engineering
 
+<br/>
+
 <!-- Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/) -->
 
 ## 🎯 Skills
