@@ -5,7 +5,7 @@ My work is driven by a passion for interdisciplinary innovation, particularly at
 
 <!-- Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/) -->
 
-## 💼 Skills
+## 🎯 Skills
 
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow)
 ![CV](https://img.shields.io/badge/CV-Computer%20Vision-orange)
@@ -30,10 +30,12 @@ My work is driven by a passion for interdisciplinary innovation, particularly at
 
 <br/>
 
-## Projects
-Check out my HuggingFace🤗 collection of medical LLMs : [zypchn/Medical-LLMs](https://huggingface.co/collections/zypchn/medical-llms-68aeb0165f59206e39271eaa)
+## 🗂️ Projects
+Check out my HuggingFace🤗 collection of medical LLMs : [zypchn/Medical-LLMs](https://huggingface.co/collections/zypchn/medical-llms-68aeb0165f59206e39271eaa) \
+🔎 Currently working on: Protein effector prediction with Vision Transformers 
+
 
 <br/>
 
-## Contact
+## 💬 Contact
 - LinkedIn : [zeynep-cahan](https://www.linkedin.com/in/zeynep-cahan/)
