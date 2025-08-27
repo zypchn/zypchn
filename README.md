@@ -3,7 +3,7 @@ Hey there 👋 I'm Zeynep
 A researcher specializing in artificial intelligence, natural language processing, computer vision, and bioinformatics. 
 My work is driven by a passion for interdisciplinary innovation, particularly at the convergence of biology and AI. 
 
-Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
+<!-- Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/) -->
 
 ## 💼 Skills
 
