@@ -14,6 +14,7 @@ My work is driven by a passion for interdisciplinary innovation, particularly at
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![HF](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)
 
 
 <details>
@@ -30,7 +31,7 @@ My work is driven by a passion for interdisciplinary innovation, particularly at
 <br/>
 
 ## Projects
-Check out my 🤗 collection of medical LLMs : [zypchn/Medical-LLMs](https://huggingface.co/collections/zypchn/medical-llms-68aeb0165f59206e39271eaa)
+Check out my HuggingFace🤗 collection of medical LLMs : [zypchn/Medical-LLMs](https://huggingface.co/collections/zypchn/medical-llms-68aeb0165f59206e39271eaa)
 
 <br/>
 
