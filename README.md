@@ -35,4 +35,4 @@ Check out my 🤗 collection of medical LLMs : [zypchn/Medical-LLMs](https://hug
 <br/>
 
 ## Contact
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zeynep-cahan/)
+- LinkedIn : [zeynep-cahan](https://www.linkedin.com/in/zeynep-cahan/)
