@@ -1,6 +1,6 @@
 Hey there 👋 I'm Zeynep
 
-A researcher specializing in artificial intelligence, natural language processing, computer vision, and bioinformatics. 
+AI researcher specializing in natural language processing, computer vision, and bioinformatics. 
 My work is driven by a passion for interdisciplinary innovation, particularly at the convergence of biology and AI. \
 🎓 Student @ Ankara University - Artificial Intelligence and Data Engineering
 
