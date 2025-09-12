@@ -45,8 +45,8 @@ My work is driven by a passion for interdisciplinary innovation, particularly at
 Check out my HuggingFace🤗 collection of medical LLMs : [zypchn/Medical-LLMs](https://huggingface.co/collections/zypchn/medical-llms-68aeb0165f59206e39271eaa) 
 
 🔎 Currently working on: 
-  - Protein effector prediction with Vision Transformers (academic paper)
-  - Automated mail system for patient diagnosis using RAG
+  - Protein function prediction with Vision Transformers (academic paper)
+  - Automated mail system for patient diagnosis using AgenticRAG -> [DoktorZeytin](https://github.com/zypchn/zeytin)
 
 
 <br/>
