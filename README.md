@@ -47,7 +47,7 @@ Check out my HuggingFace🤗 collection of medical LLMs : [zypchn/Medical-LLMs](
 🔎 Currently working on: 
   - Protein function prediction with Vision Transformers (academic paper)
   - Automated mail system for patient diagnosis using AgenticRAG -> [DoktorZeytin](https://github.com/zypchn/zeytin)
-    - Check out my progress @ [MedicalRAG-Demo](huggingface.co/spaces/zypchn/MedicalRAG-Demo)
+    - Check out my progress @ [MedicalRAG-Demo](https://huggingface.co/spaces/zypchn/MedicalRAG-Demo)
 
 
 <br/>
