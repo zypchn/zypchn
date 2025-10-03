@@ -10,6 +10,7 @@ My work is driven by a passion for interdisciplinary innovation, particularly at
 
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-yellow)
 ![CV](https://img.shields.io/badge/CV-Computer%20Vision-orange)
+![BIO](https://img.shields.io/badge/BIO-Bioinformatics-green)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
