@@ -57,3 +57,4 @@ Check out my HuggingFace🤗 collection of medical LLMs : [zypchn/Medical-LLMs](
 
 ## 💬 Contact
 - LinkedIn : [zeynep-cahan](https://www.linkedin.com/in/zeynep-cahan/)
+- email : zeynepcahan8@gmail.com
