@@ -48,7 +48,7 @@ Check out my HuggingFace🤗 collection of medical LLMs : [zypchn/Medical-LLMs](
 🔎 Currently working on: 
   - Protein function prediction with Vision Transformers (academic paper)
   - cAsh: Robo-Advisor for Pokemon products
-  - Protein design with AI
+  - Protein design with protein language models -> [pLM](https://github.com/zypchn/pLM)
   - Automated mail system for patient diagnosis using AgenticRAG -> [DoktorZeytin](https://github.com/zypchn/zeytin)
     - Check out my progress @ [MedicalRAG-Demo](https://huggingface.co/spaces/zypchn/MedicalRAG-Demo)
 
